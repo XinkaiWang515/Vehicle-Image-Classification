@@ -1,6 +1,7 @@
 # Vehicle-Image-Classification
 
-Classify stanford car images dataset using transfer learning based on EfficientNet with customized layers.
+Classify stanford car images dataset using transfer learning based on EfficientNet with customized layers.  
+If notebook cannot open, please click the [colab link](https://colab.research.google.com/drive/1drX7nulpatVs_JzquYx2nwNzV00FnWvd) to my colab.
 
 ### learning curve for training and validation
 
